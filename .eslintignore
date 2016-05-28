@@ -1,0 +1,8 @@
+# Ignore built files except build/index.js
+.idea
+bower_components
+node_modules
+dist
+tmp
+tests
+public
